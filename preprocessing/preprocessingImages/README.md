@@ -1,4 +1,4 @@
-## Here is an example of the preprocessing flow (done in [cannyEdge.py](https://github.com/nrozario/aquadrone-vision/blob/dev/preprocessing/preprocessingImages/cannyEdge.py) and [gateLocator.py](https://github.com/nrozario/aquadrone-vision/blob/dev/preprocessing/preprocessingImages/gateLocator.py).
+## Here is an example of the preprocessing flow (done in [cannyEdge.py](https://github.com/nrozario/aquadrone-vision/blob/dev/preprocessing/preprocessingImages/cannyEdge.py) and [gateLocator.py](https://github.com/nrozario/aquadrone-vision/blob/dev/preprocessing/preprocessingImages/gateLocator.py)).
 
 ### Original Gate Image
 ![OGgate](https://github.com/nrozario/aquadrone-vision/assets/9000794/675de83a-9361-4d2d-acd9-47ddef3a31a7)
